@@ -1,0 +1,21 @@
+.square{
+    width: 1000px;
+  height: 1000px; 
+  background-color: green;
+  border-radius: 20%;
+  
+}
+
+
+@media all and (width<= 800px) {
+    .square{
+        background-color: red;
+    }
+}
+
+
+@media all and (width<= 500px) {
+    .square{
+        background-color: blue;
+    }
+}

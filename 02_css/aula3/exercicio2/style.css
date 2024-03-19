@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+.classe_amarela{
+
+    border: dotted 3px red;
+    background-color: yellow;
+    font-size: small;
+}
+
+.classe_vermelha{
+
+    border: dotted 3px yellow;
+    background-color: red;
+    height: 100px;
+    font-size: large;
+    
+    
+}
+#especial{
+
+    background-color: blue;
+
+
+}

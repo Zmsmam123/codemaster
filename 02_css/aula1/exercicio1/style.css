@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    color: red;
+}
+
+body{
+    background-image:url(lisboa_02.jpg)
+
+
+}
+
+p{
+    color: yellow;
+    border: double 3px black;
+}

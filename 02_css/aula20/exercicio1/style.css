@@ -1,0 +1,136 @@
+#div-1{
+width: 100px; 
+  height: 100px; 
+  background-color: green;
+  animation:2s;
+  
+  
+   
+}
+
+#div-2{
+      animation-name: moveForward;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  width: 100px;
+  height: 100px; 
+  background-color: green;
+}
+@keyframes moveForward {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(100px);
+  }
+}
+
+
+
+#div-3{
+
+    width: 100px; 
+  height: 100px; 
+  background-color: green;
+     animation-name: rotate;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+#div-4 {
+  animation-name: slide;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+   width: 100px; 
+  height: 100px; 
+  background-color: green;
+}
+
+@keyframes slide {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(100px);
+  }
+}
+
+
+#div-5 {
+  animation-name: moveLinear;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+   width: 100px; 
+  height: 100px; 
+  background-color: green;
+}
+
+@keyframes moveLinear {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(100px);
+  }
+}
+
+
+#div-6 {
+  animation-name: fadeIn;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-delay: 2s;
+  width: 100px; 
+  height: 100px; 
+  background-color: green;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+#div-7 {
+  animation: move 2s linear infinite, fade 4s ease-in-out infinite alternate;
+  width: 100px; 
+  height: 100px; 
+  background-color: green;
+}
+
+@keyframes move {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(50px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+@keyframes fade {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.5;
+  }
+}

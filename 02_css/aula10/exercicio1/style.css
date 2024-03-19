@@ -1,0 +1,36 @@
+.a1{
+  border: 3px solid  black;
+  width: 350px;
+  background-color: red;
+
+}
+.a2{
+  border: 3px solid  black;
+  width: 12cm;
+  background-color: green;
+
+}
+.a3{
+  border: 3px solid  black;
+  width: 150mm;
+  background-color: blue;
+
+}
+.a4{
+  border: 3px solid  black;
+  width: 7in;
+  background-color: yellow;
+
+}
+.a5{
+  border: 3px solid  black;
+  width: 300pt;
+  background-color: orange;
+
+}
+.a6{
+  border: 3px solid  black;
+  width: 32pc;
+  background-color: purple;
+
+}

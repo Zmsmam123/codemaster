@@ -1,0 +1,55 @@
+.a1{
+  border: 3px solid  black;
+  width: 50%;
+  background-color: red;
+
+}
+.a2{
+  border: 3px solid  black;
+  width: 50vw;
+  background-color: green;
+
+}
+.a3{
+  border: 3px solid  black;
+  width: 50vh;
+  background-color: blue;
+
+}
+.a4{
+  border: 3px solid  black;
+  width: 50vmin;
+  background-color: yellow;
+
+}
+.a5{
+  border: 3px solid  black;
+  width: 50vmax;
+  background-color: orange;
+
+}
+.a6{
+  border: 3px solid  black;
+  width: 50em;
+  background-color: purple;
+
+}
+.a7{
+  border: 3px solid  black;
+  width: 50rem;
+  background-color:blueviolet
+
+}
+
+.a8{
+  border: 3px solid  black;
+  width: 50ch;
+  background-color:aqua;
+
+}
+.a9{
+  border: 3px solid  black;
+  width: 50ex;
+  background-color: maroon;
+
+}

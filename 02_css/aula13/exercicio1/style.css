@@ -1,0 +1,42 @@
+.red{
+  border: 5px solid  black ;
+  max-width: 200px;
+  background-color: red;
+
+}
+
+.green{
+    border: 5px solid  black ;
+  max-width: 400px;
+  background-color: green;
+  
+}
+
+.blue{
+   border: 5px solid  black ;
+  max-width: 400px;
+  min-width: 200px;
+  background-color: blue;
+  
+}
+
+.pink{
+   border: 5px solid  black ;
+  min-height: 200px;
+  background-color: pink;
+  
+}
+
+.lime{
+   border: 5px solid  black ;
+  max-height: 400px;
+  background-color: lime;
+}
+
+.grey{
+   border: 5px solid  black ;
+  max-height: 400px;
+  min-height: 200px;
+  background-color: grey;
+  
+}

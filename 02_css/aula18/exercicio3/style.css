@@ -1,0 +1,139 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+
+body > div{
+
+    border: 5px solid black;
+    background-color: lightgreen;
+    margin: 40px auto;
+    width: 90%;
+    height: 450px;
+    font-size: 20px;
+}
+
+
+.filho{
+
+    background-color: coral;
+    border: 3px solid black;
+}
+
+#pai-1{
+
+    display: flex;
+    flex-direction: row;
+   align-items: stretch;
+    flex-wrap: nowrap;
+}
+
+.filho1{
+
+    background-color: coral;
+    border: 3px solid black;
+}
+
+#pai-2{
+
+    display: flex;
+    flex-direction: row;
+    
+   align-items: flex-start;
+   
+    flex-wrap: nowrap;
+}
+.filho2{
+
+    background-color: coral;
+    border: 3px solid black;
+}
+
+#pai-3{
+
+    display: flex;
+    flex-direction: row;
+     align-items: flex-end;
+    flex-wrap: nowrap;
+}
+
+.filho3{
+
+    background-color: coral;
+    border: 3px solid black;
+}
+
+#pai-4{
+
+    display: flex;
+    flex-direction: row;
+     align-items: center;
+    flex-wrap: nowrap;
+}
+.filho4{
+
+    background-color: coral;
+    border: 3px solid black;
+}
+
+#pai-5{
+
+    display: flex;
+    flex-direction: column;
+  align-items: stretch;
+    flex-wrap: nowrap;
+}
+.filho5{
+
+    background-color: coral;
+    border: 3px solid black;
+}
+
+#pai-6{
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+}
+.filho6{
+
+    background-color: coral;
+    border: 3px solid black;
+}
+
+#pai-7{
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    flex-wrap: nowrap;
+}
+.filho7{
+
+    background-color: coral;
+    border: 3px solid black;
+}
+
+#pai-8{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+.filho8{
+
+    background-color: coral;
+    border: 3px solid black;
+}
+
+#pai-9{
+
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    flex-wrap: nowrap;
+}

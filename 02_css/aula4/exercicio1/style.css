@@ -1,0 +1,21 @@
+ol{
+    border: 3px solid black;
+    width: 100px;
+    border-radius: 10px;
+}
+
+
+.verde{
+
+    background-color: green;
+}
+
+.amarelo{
+    background-color: yellow;
+}
+#specialItem {
+    border: 2px solid red;
+    padding: 10px;
+    font-size: 150%;
+    border-radius: 10px;
+  }

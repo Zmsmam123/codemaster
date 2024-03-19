@@ -1,0 +1,16 @@
+.div-1{
+
+    background-color:aqua;
+    margin:  50px 75px ;
+    height: 200px;
+    padding-right:50px ;
+}
+
+.div-2{
+
+    background-color:greenyellow;
+    padding: 20px; 
+    margin: 0 auto; 
+    text-align: center; 
+    width: 50%;
+}

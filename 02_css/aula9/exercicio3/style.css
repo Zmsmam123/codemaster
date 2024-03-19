@@ -1,0 +1,53 @@
+.p1{
+    border: dotted red;
+
+}
+
+.span{
+    background-color: green;
+    color: white; 
+    padding: 5px; 
+    border-radius: 5px; 
+
+    
+}
+
+.p2{
+    border-style: solid;
+  border-width: 10px;
+  border-top-color: black;
+  border-left-color: black;
+  border-right-color: green;
+  border-bottom-color: green;
+}
+
+.div-1{
+    border: 2px solid #ff1493; 
+    border-radius: 5%/50%; 
+    background-color: #ffc0cb; 
+    padding: 10px; 
+    text-align: center;
+    width: 2000px;
+}
+
+.div-2{
+
+    border: 2px solid #ff1493; 
+    border-radius: 5%/50%; 
+    background-color: #ffc0cb; 
+    padding: 10px; 
+    text-align: center;
+    width: 2000px;
+    margin-top: 50px;
+}
+
+.div-3{
+
+    border: 2px solid #ff1493; 
+    border-radius: 5%/50%; 
+    background-color: #ffc0cb; 
+    padding: 10px; 
+    text-align: center;
+    width: 2000px;
+    margin-top: -20px;
+}

@@ -1,0 +1,81 @@
+body{
+
+
+}
+
+div{
+   
+    text-align: center;
+    margin: 20px 0px;
+}
+
+#imagem-1{
+
+    border: 3px solid black;
+    filter: brightness(200%);
+}
+
+
+#imagem-2{
+
+    border: 3px solid black;
+    filter: brightness(50%);
+}
+#imagem-3{
+
+    border: 3px solid black;
+    filter:blur(3px)
+}
+#imagem-4{
+
+    border: 3px solid black;
+    filter: grayscale(50%)
+}
+#imagem-5{
+
+    border: 3px solid black;
+    filter: grayscale(100%)
+}
+#imagem-6{
+
+    border: 3px solid black;
+    filter: contrast(200%)
+}
+#imagem-7{
+
+    border: 3px solid black;
+    filter: contrast(25%)
+}
+#imagem-8{
+
+    border: 3px solid black;
+    filter: drop-shadow(10px 10px 5px red)
+}
+
+#imagem-9{
+
+    border: 3px solid black;
+    filter:  invert(100%)
+}
+#imagem-10{
+
+    border: 3px solid black;
+    filter: saturate(20%)
+}
+#imagem-11{
+
+    border: 3px solid black;
+    filter: saturate(400%)
+}
+#imagem-12{
+
+    border: 3px solid black;
+    filter: sepia(75%)
+}
+#imagem-13{
+
+    border: 3px solid black;
+    filter: blur(3px)  brightness(50%) invert(100%)
+}
+
+

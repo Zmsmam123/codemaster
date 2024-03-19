@@ -1,0 +1,19 @@
+.div1{
+    background-color: aquamarine;
+    color: black;
+    text-align: left;
+
+}
+.div2{
+    background-color: rebeccapurple;
+    color: violet;
+    text-align: center;
+
+}
+
+.div3{
+    background-color: coral;
+    color: black;
+    text-align: right;
+
+}

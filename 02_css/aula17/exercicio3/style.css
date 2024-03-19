@@ -1,0 +1,31 @@
+.special{
+    border: 2px solid black;
+    background-image: url("praia.jpg");
+    background-position: center;
+    background-size: cover;
+    padding: 100px 0px;
+    color: red;
+}
+
+
+#titulo-1{
+
+   backdrop-filter: blur(3px);
+}
+#titulo-2{
+
+   backdrop-filter:brightness(50%) ;
+}
+
+#titulo-3{
+
+   backdrop-filter: invert(100%);
+}
+#titulo-4{
+
+   backdrop-filter: grayscale(100%);
+}
+#titulo-5{
+
+   backdrop-filter:  grayscale(100%) blur(5px) brightness(200%);
+}

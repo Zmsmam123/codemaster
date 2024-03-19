@@ -1,0 +1,49 @@
+.filho1{
+ width: 500px; 
+    height: 500px; 
+    background-color: orange; 
+    border-radius: 20px;
+     text-align: center;
+}
+
+.filho2{
+    width: 500px; 
+    height: 500px; 
+    background-color: blue; 
+    border-radius: 20px;
+    text-align: center;
+}
+
+div{
+width: 500px; 
+    height: 500px; 
+    
+    border-radius: 20px;
+     text-align: center;
+    
+
+}
+
+#pai-1 div :nth-child(1){
+
+  
+   background-color: purple;
+}
+#pai-1 div :nth-child(1){
+
+  
+   background-color: blue;
+}
+#pai-1 div :nth-child(1){
+
+  
+   background-color: orange;
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,57 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.text-center{
+    text-align: center;
+}
+
+div{
+    background-color: lightgreen;
+    border: 3px solid black;
+    width: 500px;
+    margin: 50px auto;
+    padding: 10px;
+    text-align: justify;
+}
+
+button{
+    margin: 5px;
+}
+
+#pai-1:hover{background-color: red;}
+
+#pai-2{transition-duration: 1s;}
+#pai-2:hover{background-color: red;}
+
+#pai-3:active{background-color: red;}
+
+#pai-4{transition-duration: 1s;}
+#pai-4:active{background-color: red;}
+
+#pai-5 input:focus{background-color: red;}
+
+#pai-6 input{
+    transition-duration: 1s;
+    background-color: white;
+}
+#pai-6 input:focus{background-color: red;}
+
+#pai-7 a:link{color: white;}
+#pai-7 a:visited{color: red;}
+
+#pai-8 button:first-child{background-color: red;}
+
+#pai-9 button:last-child{background-color: red;}
+
+#pai-10 button:nth-child(3){background-color: red;}
+
+#pai-11 button:nth-child(odd){background-color: red;}
+
+#pai-12 button:nth-child(even){background-color: red;}
+
+#pai-13 button:nth-child(3n){background-color: red;}
+
+#pai-14:lang(pt){background-color: red;}
+
+#pai-15:lang(en){background-color: red;}

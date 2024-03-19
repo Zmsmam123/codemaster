@@ -1,0 +1,23 @@
+.div-1{
+
+    background-color:aqua;
+    padding:  50px ;
+    height: 100px;
+    padding-right:50px ;
+    
+}
+
+.div-2{
+
+    background-color:greenyellow;
+    margin: 50px
+}
+
+
+.span{
+
+    background-color:pink;
+    margin: 30px 20px 0px 60px;
+    padding:  20px ;
+}
+

@@ -1,0 +1,45 @@
+.div-1{
+
+    background-color: aqua;
+
+}
+.div-2{
+
+    background-color: maroon;
+    margin: 50px;
+}
+.div-3{
+
+    background-color: yellow;
+    margin: 50px 200px;
+}
+.div-4{
+
+    background-color: blue;
+    margin-top: 100px;
+}
+.div-5{
+
+    background-color: green;
+    margin-bottom: 100px;
+}
+.div-6{
+
+    background-color: pink;
+    margin-left: 100px;
+}
+.div-7{
+
+    background-color: purple;
+    margin-right: 100px;
+}
+.div-8{
+
+    background-color: red;
+    margin: 0px 100px 20px 40px;
+}
+.div-9{
+
+    background-color: aquamarine;
+    margin: 10px 50px 100px;
+}

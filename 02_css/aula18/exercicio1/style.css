@@ -1,0 +1,40 @@
+.pai{
+
+
+    width: 600px;
+    padding: 20px;
+    border: 3px solid black;
+    margin: 40px auto;
+    background-color: lightgreen;
+}
+
+.filho{
+
+    border: 1px solid black;
+    margin: 20px 0;
+    background-color: white;
+    height: 50px;
+    
+}
+
+
+
+
+#pai-1>.filho-1:hover~.filho-5{
+    background-color: red;
+
+
+}
+
+
+#pai-2>.filho-5:hover~.filho-1{
+    background-color: red;
+
+
+}
+
+#pai-3>.filho:hover~.filho{
+    background-color: red;
+
+
+}

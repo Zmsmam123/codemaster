@@ -1,0 +1,84 @@
+.gradient-container1 {
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(circle at center, red, yellow);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gradient-container2 {
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(closest-side  , red, yellow);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gradient-container3 {
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(closest-corner  , red, yellow);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gradient-container4 {
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(farthest-side  , red, yellow);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gradient-container5 {
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(farthest-corner  , red, yellow);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gradient-container6 {
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(circle at top left, black, gold);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gradient-container7 {
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(circle at top right, black, gold);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gradient-container8 {
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(circle at bottom left, black, gold);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gradient-container9 {
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(circle at bottom right, black, gold);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gradient-container10 {
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(circle at 33.3% 78.23%, blue, red, white);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
